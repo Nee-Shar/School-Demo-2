@@ -478,3 +478,8 @@ h1 {
 .sm-icons li {
   padding-right: 1rem;
 }
+
+/* Custom class for smaller font size */
+.smaller-font {
+  font-size: 0.8rem; /* Adjust the value as needed */
+}
